@@ -1,11 +1,11 @@
 {
-    "client_id": "1190082805871423679",
+    "client_id": "your id",
     "details": "first string",
     "state": "second string",
     "texttoedit": "unstatic void",
     "images": [
-        "python-logo-notext_svg",
-        "iso_c__logo_svg"
+        "name of images",
+        "image 2"
     ],
     "buttons": [
         {
