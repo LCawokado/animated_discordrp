@@ -1,0 +1,20 @@
+{
+    "client_id": "1190082805871423679",
+    "details": "first string",
+    "state": "second string",
+    "texttoedit": "unstatic void",
+    "images": [
+        "python-logo-notext_svg",
+        "iso_c__logo_svg"
+    ],
+    "buttons": [
+        {
+            "label": "but1",
+            "url": "https://amamamammmamong.us"
+        },
+        {
+            "label": "but2",
+            "url": "https://amamamammmamong.us"
+        }
+    ]
+}
